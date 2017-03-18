@@ -1,8 +1,5 @@
 package Actividad7InterfazRefuerzo;
 
-/**
- * Created by shironatsu22 on 18/03/17.
- */
 public class Pep implements Interfaz {
 
     @Override
@@ -16,8 +13,7 @@ public class Pep implements Interfaz {
     }
 
     @Override
-    public void addStrudent(Student student) {
-
+    public void addStudent(Student student) {
 
     }
 

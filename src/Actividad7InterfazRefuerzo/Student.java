@@ -1,8 +1,6 @@
 package Actividad7InterfazRefuerzo;
 
-/**
- * Created by shironatsu22 on 18/03/17.
- */
+
 public class Student {
     private String dni;
     private String diaNacimiento;

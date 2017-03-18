@@ -1,8 +1,6 @@
 package Actividad7InterfazRefuerzo;
 
-/**
- * Created by shironatsu22 on 18/03/17.
- */
+
 public class Miquel implements Interfaz {
     @Override
     public Student getStudent(Student student) {
@@ -15,9 +13,11 @@ public class Miquel implements Interfaz {
     }
 
     @Override
-    public void addStrudent(Student student) {
+    public void addStudent(Student student) {
 
     }
+
+
 
     @Override
     public void contractStudent(Student student) {
